@@ -50,4 +50,4 @@ The SNS topics `notification_target_arn` and `role_arn` are outputted and so can
   role_arn                = module.sns.role_arn
 ```
 
-You may run the module locally by cloning the module and simply assigning the `source` to `..\`.
+You may run the module locally by cloning the module and simply assigning the `source` to `../`.
